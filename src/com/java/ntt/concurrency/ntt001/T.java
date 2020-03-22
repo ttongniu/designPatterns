@@ -1,5 +1,8 @@
 package com.java.ntt.concurrency.ntt001;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @ClassName T
  * @Description     synchronized  关键字   对某个对象进行加锁
@@ -21,5 +24,19 @@ public class T {
 
      }
 
+  public static void main(String[] args) {
 
+       int i=2;
+    List<String>  ll = new ArrayList<>();
+    ll.add("1");
+    ll.add("2");
+       try {
+         String s=ll.get(2);
+       }catch (IndexOutOfBoundsException e){
+        throw  new IndexOutOfBoundsException(e.getMessage());
+      }
+
+
+
+  }
 }
