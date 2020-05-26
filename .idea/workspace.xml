@@ -2,34 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c55c4a05-cd90-4628-980c-092cfc3269cc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/Jump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/MoreThanHalfNum_Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/NumberRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/PrintListFromTailToHead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/find.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/replaceSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/sort/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/sort/Insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/sort/Selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/sort/mergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/base/CountDownLatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/base/CyclicBarrierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/base/ParameTer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/base/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/base/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/concurrency/LRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/concurrency/MyCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/concurrency/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/nio/NIOClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/nio/NIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/Tree/MyTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/Algorithms/sort/QuickSortNtt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/base/Singleton02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/base/Singleton03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/base/Singleton04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/ntt/base/Singleton05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/ntt/concurrency/ntt001/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/ntt/concurrency/ntt001/T.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/ntt/concurrency/ntt005/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/ntt/concurrency/ntt005/T.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/ntt/designPatterns/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/ntt/designPatterns/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/ntt/nio/NIOServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/ntt/nio/NIOServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +32,7 @@
         <option value="Singleton" />
         <option value="Interface" />
         <option value="FxmlFile" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -61,7 +46,6 @@
   <component name="ProjectId" id="1WPbRLzd6CDYANH5MZulJH9A0SZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
@@ -72,7 +56,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -90,7 +74,7 @@
       <recent name="$PROJECT_DIR$/src/com/java/ntt/designPatterns/FactoryMethed" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CyclicBarrierTest">
+  <component name="RunManager" selected="Application.main1">
     <configuration default="true" type="tests" factoryName="Nosetests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.ntt.base.Test" />
+    <configuration name="QuickSortNtt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.ntt.Algorithms.sort.QuickSortNtt" />
       <module name="designPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.ntt.base.*" />
+          <option name="PATTERN" value="com.java.ntt.Algorithms.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.ntt.Algorithms.sort.mergeSort" />
+    <configuration name="main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.ntt.Algorithms.main1" />
       <module name="designPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.ntt.Algorithms.sort.*" />
+          <option name="PATTERN" value="com.java.ntt.Algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,25 +217,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main1" />
+        <item itemvalue="Application.QuickSortNtt" />
         <item itemvalue="Application.CyclicBarrierTest" />
         <item itemvalue="Application.CountDownLatchTest" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.mergeSort" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -280,83 +252,93 @@
       <workItem from="1579424108620" duration="7962000" />
       <workItem from="1579678337085" duration="8718000" />
       <workItem from="1584102474298" duration="11663000" />
-      <workItem from="1584781369599" duration="2752000" />
+      <workItem from="1584781369599" duration="4845000" />
+      <workItem from="1584972509950" duration="3027000" />
+      <workItem from="1585016556575" duration="2707000" />
+      <workItem from="1585037099197" duration="508000" />
+      <workItem from="1586749588070" duration="3145000" />
+      <workItem from="1586768355493" duration="1926000" />
+      <workItem from="1586771135508" duration="2250000" />
+      <workItem from="1586784112290" duration="3000" />
+      <workItem from="1586784425597" duration="41000" />
+      <workItem from="1586784702785" duration="694000" />
+      <workItem from="1586831600751" duration="1004000" />
+      <workItem from="1587222097293" duration="309000" />
+      <workItem from="1589897996596" duration="1887000" />
+      <workItem from="1590110607777" duration="8545000" />
+      <workItem from="1590491088202" duration="88000" />
+      <workItem from="1590492276923" duration="1955000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="87" key="#Inspections" timestamp="1579433833409">
-      <screen x="0" y="23" width="1440" height="798" />
-    </state>
-    <state x="320" y="87" key="#Inspections/0.23.1440.798@0.23.1440.798" timestamp="1579433833409" />
-    <state x="533" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1579057840522">
-      <screen x="0" y="23" width="1440" height="798" />
-    </state>
-    <state x="533" y="132" key="#com.intellij.ide.util.MemberChooser/0.23.1440.798/1440.-547.1920.1057@0.23.1440.798" timestamp="1579057840522" />
-    <state x="481" y="301" width="477" height="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579069926170">
-      <screen x="0" y="23" width="1440" height="798" />
-    </state>
-    <state x="481" y="301" width="477" height="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.798/1440.-547.1920.1057@0.23.1440.798" timestamp="1579069926170" />
-    <state width="432" height="622" key="DebuggerActiveHint" timestamp="1584259633937">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="432" height="628" key="DebuggerActiveHint" timestamp="1589898189329">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="432" height="618" key="DebuggerActiveHint/0.23.1440.812@0.23.1440.812" timestamp="1584195955939" />
     <state width="432" height="622" key="DebuggerActiveHint/0.23.1440.816@0.23.1440.816" timestamp="1584259633937" />
-    <state width="1398" height="226" key="GridCell.Tab.0.bottom" timestamp="1584887722652">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="432" height="628" key="DebuggerActiveHint/0.23.1440.823@0.23.1440.823" timestamp="1589898189329" />
+    <state width="679" height="258" key="GridCell.Tab.0.bottom" timestamp="1589942339272">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584887722652" />
-    <state width="698" height="183" key="GridCell.Tab.0.bottom/0.23.1440.798/1440.-547.1920.1057@0.23.1440.798" timestamp="1579250094009" />
-    <state width="698" height="183" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1580360354286" />
+    <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-570.1920.1080@0.0.1440.900" timestamp="1584945561669" />
+    <state width="699" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586759796539" />
     <state width="698" height="186" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1584195976109" />
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1584259610876" />
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.23.1440.821/1440.-547.1920.1057@0.23.1440.821" timestamp="1584325010312" />
-    <state width="1398" height="226" key="GridCell.Tab.0.center" timestamp="1584887722651">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="679" height="258" key="GridCell.Tab.0.bottom/0.23.1440.825/1440.-547.1920.1057@0.23.1440.825" timestamp="1589942339272" />
+    <state width="679" height="258" key="GridCell.Tab.0.center" timestamp="1589942339271">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584887722651" />
-    <state width="698" height="183" key="GridCell.Tab.0.center/0.23.1440.798/1440.-547.1920.1057@0.23.1440.798" timestamp="1579250094008" />
-    <state width="698" height="183" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1580360354286" />
+    <state width="1398" height="226" key="GridCell.Tab.0.center/0.0.1440.900/1440.-570.1920.1080@0.0.1440.900" timestamp="1584945561667" />
+    <state width="699" height="226" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586759796538" />
     <state width="698" height="186" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1584195976108" />
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1584259610876" />
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.23.1440.821/1440.-547.1920.1057@0.23.1440.821" timestamp="1584325010311" />
-    <state width="1398" height="226" key="GridCell.Tab.0.left" timestamp="1584887722650">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="679" height="258" key="GridCell.Tab.0.center/0.23.1440.825/1440.-547.1920.1057@0.23.1440.825" timestamp="1589942339271" />
+    <state width="679" height="258" key="GridCell.Tab.0.left" timestamp="1589942339270">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584887722650" />
-    <state width="698" height="183" key="GridCell.Tab.0.left/0.23.1440.798/1440.-547.1920.1057@0.23.1440.798" timestamp="1579250094008" />
-    <state width="698" height="183" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1580360354285" />
+    <state width="1398" height="226" key="GridCell.Tab.0.left/0.0.1440.900/1440.-570.1920.1080@0.0.1440.900" timestamp="1584945561666" />
+    <state width="699" height="226" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586759796537" />
     <state width="698" height="186" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1584195976108" />
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1584259610875" />
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.23.1440.821/1440.-547.1920.1057@0.23.1440.821" timestamp="1584325010311" />
-    <state width="1398" height="226" key="GridCell.Tab.0.right" timestamp="1584887722652">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="679" height="258" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1589898154180" />
+    <state width="679" height="258" key="GridCell.Tab.0.left/0.23.1440.825/1440.-547.1920.1057@0.23.1440.825" timestamp="1589942339270" />
+    <state width="679" height="258" key="GridCell.Tab.0.right" timestamp="1589942339271">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584887722652" />
-    <state width="698" height="183" key="GridCell.Tab.0.right/0.23.1440.798/1440.-547.1920.1057@0.23.1440.798" timestamp="1579250094008" />
-    <state width="698" height="183" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1580360354286" />
+    <state width="1398" height="226" key="GridCell.Tab.0.right/0.0.1440.900/1440.-570.1920.1080@0.0.1440.900" timestamp="1584945561668" />
+    <state width="699" height="226" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586759796538" />
     <state width="698" height="186" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1584195976108" />
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1584259610876" />
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.23.1440.821/1440.-547.1920.1057@0.23.1440.821" timestamp="1584325010312" />
-    <state x="221" y="61" key="SettingsEditor" timestamp="1579233270753">
-      <screen x="0" y="23" width="1440" height="798" />
+    <state width="679" height="258" key="GridCell.Tab.0.right/0.23.1440.825/1440.-547.1920.1057@0.23.1440.825" timestamp="1589942339271" />
+    <state x="221" y="43" key="SettingsEditor" timestamp="1586770654092">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="61" key="SettingsEditor/0.23.1440.798/1440.-547.1920.1057@0.23.1440.798" timestamp="1579233270753" />
-    <state x="380" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1579678337840">
-      <screen x="0" y="23" width="1440" height="798" />
+    <state x="221" y="43" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586770654092" />
+    <state x="380" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1586784112042">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="380" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.798@0.23.1440.798" timestamp="1579678337840" />
+    <state x="380" y="261" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586784112042" />
+    <state x="380" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.798/1440.-547.1920.1057@0.23.1440.798" timestamp="1585016559188" />
     <state x="458" y="210" key="extract.method.dialog" timestamp="1584887708571">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="210" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1584887708571" />
-    <state x="385" y="145" width="670" height="676" key="search.everywhere.popup" timestamp="1579684224757">
-      <screen x="0" y="23" width="1440" height="798" />
+    <state x="88" y="31" key="new project wizard" timestamp="1590491169820">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="145" width="670" height="676" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1579684224757" />
+    <state x="88" y="31" key="new project wizard/0.0.1440.900/1440.-570.1920.1080@0.0.1440.900" timestamp="1590491169820" />
+    <state x="385" y="138" width="670" height="763" key="search.everywhere.popup" timestamp="1586768374203">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="138" width="670" height="763" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586768374203" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -405,6 +387,21 @@
           <url>file://$PROJECT_DIR$/src/com/java/ntt/Algorithms/sort/mergeSort.java</url>
           <line>18</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
+          <line>478</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
+          <line>479</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/ntt/Algorithms/main1.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

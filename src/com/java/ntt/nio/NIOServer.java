@@ -1,4 +1,5 @@
 package com.java.ntt.nio;
+import	java.util.ArrayList;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;
@@ -8,6 +9,7 @@ import java.nio.channels.ServerSocketChannel;
 import java.nio.channels.SocketChannel;
 import java.security.Key;
 import java.util.Iterator;
+import java.util.List;
 
 /**
  * @ClassName NIOServer
@@ -74,8 +76,7 @@ public class NIOServer {
   private void read(SelectionKey selectionKey) {
 
      SocketChannel  socketChannel = (SocketChannel) selectionKey.channel();
-
-    // ByteBuffer buffer
+   
 
   }
 }

@@ -15,9 +15,6 @@ public class T implements Runnable {
       System.out.println(Thread.currentThread().getName() + "Count =" + count);
   }
 
-
-
-
   @Override
   public void run() {
     m();
